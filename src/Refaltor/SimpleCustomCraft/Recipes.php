@@ -32,7 +32,6 @@ class Recipes
 
     private function getItem($item)
     {
-        var_dump($item);
         $items = explode(":", $item);
         $id = intval($items[0]);
         $meta = intval($items[1]);
