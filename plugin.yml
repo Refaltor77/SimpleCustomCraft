@@ -1,0 +1,6 @@
+name: SimpleCustomCraft
+version: 2.0.0
+api: 4.0.0
+main: Refaltor\SimpleCustomCraft\SimpleCustomCraft
+author: Refaltor
+website: https://discord.gg/vEEZFdbsnC
